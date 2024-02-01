@@ -16,5 +16,8 @@
     {"name":"ルーム","order":10,"path":"folders/ルーム.yy",},
     {"name":"拡張機能","order":14,"path":"folders/拡張機能.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
+  ],
 }
