@@ -22,6 +22,9 @@
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"spr_player_left","order":2,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"spr_player_down2","order":5,"path":"sprites/spr_player_down2/spr_player_down2.yy",},
+    {"name":"spr_player_right2","order":7,"path":"sprites/spr_player_right2/spr_player_right2.yy",},
+    {"name":"spr_player_left2","order":6,"path":"sprites/spr_player_left2/spr_player_left2.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"Sprite9","order":8,"path":"sprites/Sprite9/Sprite9.yy",},
   ],
 }
