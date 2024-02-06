@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_player_down2",
-    "path": "sprites/spr_player_down2/spr_player_down2.yy",
+    "name": "spr_player_down",
+    "path": "sprites/spr_player_down/spr_player_down.yy",
   },
   "spriteMaskId": null,
   "visible": true,
